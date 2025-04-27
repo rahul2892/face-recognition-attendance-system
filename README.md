@@ -7,6 +7,7 @@ Attendance Management System based on Face Recognition using Python  and OpenCv
 - Tkinter(Available in python)
 - PIL (`pip install Pillow`)
 - Pandas(`pip install pandas`)
+- pyrebase(`pip install pyrebase`)
 
 ### What steps you have to follow??
 - Download my Repository 
